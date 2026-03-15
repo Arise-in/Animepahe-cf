@@ -3,7 +3,7 @@
 Cloudflare Worker that wraps AnimePahe endpoints and resolves KwiK stream and download links.
 
 ## Deploy
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=<YOUR_GIT_REPO_URL>)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Arise-in/Animepahe-cf)
 
 Notes:
 - Deploy buttons require a public GitHub/GitLab repo.
